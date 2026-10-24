@@ -4,3 +4,12 @@ __pycache__/
 
 gpt2/
 models/
+sms_spam_collection/
+sms_spam_collection.zip
+
+
+accuracy-plot.pdf
+review_classifier.pth
+test.csv
+train.csv
+validation.csv
